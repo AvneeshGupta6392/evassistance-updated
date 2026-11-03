@@ -2,4 +2,4 @@ This project is ralated to the GenAI Electric Vehicle assitance, where we ask th
 
 
 
-Deployement Link: https://evassitannce.netlify.app/
+Deployement Link: https://evassitance.netlify.app/
